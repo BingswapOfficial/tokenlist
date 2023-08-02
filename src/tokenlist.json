@@ -15,6 +15,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/BingswapOfficial/tokenlist/main/logos/eth.png"
+    },
+    {
+      "name": "BingSwap",
+      "address": "0xa88e9056019fC78B302769Cf0eba4626D9E7F139",
+      "symbol": "BSwap",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/BingSwapOfficial/tokenlist/main/logos/bswap.png"
     }
   ]
 }
